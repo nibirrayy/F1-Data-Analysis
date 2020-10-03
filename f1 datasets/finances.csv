@@ -1,0 +1,85 @@
+year,constructor_name,position,budget
+2019,"Willams",10,112
+2019,"Torro Rosso",6,110
+2019,"Alfa Romeo",8,120
+2019,"Haas F1",9,147
+2019,"Racing Point",7,160
+2019,"Mclaren",4,229
+2019,"Renault",5,232
+2019,"Red Bull",3,379
+2019,"Ferrari",2,395
+2019,"Mercedes",1,413
+2018,"Mercedes",1,450
+2018,"Ferrari",2,430
+2018,"Red Bull",3,350
+2018,"Mclaren",6,250
+2018,"Renault",4,200
+2018,"Sauber",8,135
+2018,"Willams",10,132
+2018,"Torro Rosso",9,125
+2018,"Haas F1",5,110
+2018,"Force India",7,110
+2017,"Mercedes",1,310
+2017,"Ferrari",2,260
+2017,"Red Bull",3,250
+2017,"Force India",4,103
+2017,"Willams",5,120
+2017,"Renault",6,172
+2017,"Torro Rosso",7,115
+2017,"Haas F1",8,115
+2017,"Mclaren",9,212
+2017,"Sauber",10,109
+2016,"Mercedes",1,467
+2016,"Red Bull",2,468
+2016,"Ferrari",3,418
+2016,"Force India",4,129
+2016,"Willams",5,186
+2016,"Mclaren",6,465
+2016,"Torro Rosso",7,137
+2016,"Haas F1",8,100
+2016,"Renault",9,139
+2016,"Sauber",10,103
+2016,"Marussia",11,80
+2015,"Mercedes",1,467
+2015,"Ferrari",2,418
+2015,"Willams",3,186
+2015,"Red Bull",4,468
+2015,"Force India",5,
+2015,"Lotus",6,139
+2015,"Torro Rosso",7,132
+2015,"Sauber",8,103
+2015,"Mclaren",9,465
+2015,"Marussia",10,83
+2014,"Mercedes",1,300
+2014,"Red Bull",2,425
+2014,"Willams",3,150
+2014,"Ferrari",4,410
+2014,"Mclaren",5,230
+2014,"Force India",6,75
+2014,"Torro Rosso",7,80
+2014,"Lotus",8,160
+2014,"Marussia",9,60
+2014,"Sauber",10,85
+2014,"Caterham",11,70
+2013,"Red Bull",1,235
+2013,"Mercedes",2,160
+2013,"Ferrari",3,250
+2013,"Lotus",4,130
+2013,"Mclaren",5,160
+2013,"Force India",6,100
+2013,"Sauber",7,90
+2013,"Torro Rosso",8,70
+2013,"Willams",9,90
+2013,"Marussia",10,51
+2013,"Caterham",11,65
+2012,"Red Bull",1,180
+2012,"Ferrari",2,240
+2012,"Mclaren",3,220
+2012,"Lotus",4,130
+2012,"Mercedes",5,160
+2012,"Sauber",6,130
+2012,"Force India",7,90
+2012,"Willams",8,130
+2012,"Torro Rosso",9,83
+2012,"Caterham",10,72
+2012,"Marussia",11,52
